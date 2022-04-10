@@ -1,6 +1,6 @@
 # 🧰 Slimefun Networks Visualizer 🧰
 
-Slimefun Network Visualizer aims to make creating, managing, and debugging constructed networks from the Slimefun [Networks addon](https://github.com/Sefiraat/Networks) easier by providing textures to key Networks blocks, such as Network Bridges, to give key information to players as to what each block does / is doing purely by visuals.
+Slimefun Network Visualizer aims to make creating, managing, and debugging constructed networks from the [Networks addon](https://github.com/Sefiraat/Networks) easier by providing textures to key Networks blocks, such as Network Bridges, to give key information to players as to what each block does / is doing purely by visuals.
 
 # Notice ⚠️
 
