@@ -1,10 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
-	"ambientocclusion": false,
 	"textures": {
-		"0": "block/core",
-		"particle": "block/core"
+		"0": "item/network_pusher",
+		"particle": "item/network_pusher"
 	},
 	"elements": [
 		{
@@ -46,10 +45,6 @@
 		"gui": {
 			"rotation": [30, 225, 0],
 			"scale": [0.625, 0.625, 0.625]
-		},
-		"head": {
-			"rotation": [0, 180, 0],
-			"translation": [0, 13, 7]
 		},
 		"fixed": {
 			"scale": [0.5, 0.5, 0.5]
