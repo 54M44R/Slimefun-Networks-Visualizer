@@ -1,4 +1,4 @@
-2@echo off
+@echo off
 :start
 cls
 echo --------------------------------------
