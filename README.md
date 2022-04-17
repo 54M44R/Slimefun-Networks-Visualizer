@@ -4,11 +4,11 @@ Slimefun Network Visualizer aims to make creating, managing, and debugging const
 
 # Notice ⚠️
 
-__THIS WILL APPLY THE TEXTURES TO VANILLA GLASS AS WELL__
+__THIS WILL APPLY THE TEXTURES TO VANILLA GLASS & GLAZED TERRACOTTA AS WELL__
 
 __THIS IS MEANT TO BE USED SOLELY WHEN BUILDING OR DEBUGGING A NETWORK__
 
-Please do not complain when you see your regular stained glass retextured, as I will promptly admit you to your nearest Optometrist if you do.
+Please do not complain when you see your regular glass and glazed terracotta retextured, as I will promptly admit you to your nearest Optometrist if you do.
 
 # :hammer_and_wrench: Usage 
 
