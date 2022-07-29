@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
+	"author": "54M44R",
 	"textures": {
 		"6": "item/network_bridge",
 		"particle": "item/network_bridge"

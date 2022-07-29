@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"parent": "block/block",
+	"author": "54M44R",
 	"textures": {
 		"0": "item/network_purger",
 		"particle": "item/network_purger"
