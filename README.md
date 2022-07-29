@@ -14,6 +14,18 @@ Please do not complain when you see your regular glass and glazed terracotta ret
 
 Vanilla / Forge: Install [Optifine](https://optifine.net/downloads)
 
-Fabric: Install Continuity from [Modrinth](https://modrinth.com/mod/continuity/versions) or from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/continuity)
+Fabric: Install [Continuity](https://modrinth.com/mod/continuity/versions) and [CIT Resewn](https://modrinth.com/mod/cit-resewn/versions)
 
 Download the latest resourcepack from [here](https://github.com/54M44R/Slimefun-Networks-Visualizer/releases), and drop it into your resourcepack folder. Proceed to toggle on / off when building or debugging your network.
+
+# Screenshots 📷
+
+Feel free to preview the look of the textured blocks and GUI here. Elements such as bridges will connect with one another texture wise. The cardinal directions visible in the GUI will change depending whether or not they've been selected.
+
+![Demo_Setup](https://user-images.githubusercontent.com/26176694/181667650-795e68ac-0b2d-44f9-a1b2-f1bffc2600e8.png)
+
+![All_Textured_Blocks](https://user-images.githubusercontent.com/26176694/181667647-9f939649-f2f2-4488-962f-16fb3da2226f.png)
+
+![Dark_UI_Networks](https://user-images.githubusercontent.com/26176694/181667475-0e70d0d4-d1ff-4f80-8da8-90ade3ec6870.png)
+
+![Light_UI_Networks](https://user-images.githubusercontent.com/26176694/181667476-6496230a-f1b4-4896-baa4-21da695f7337.png)
